@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Manolo
 
-💻 Software Developer in training | Full Stack & Multiplatform Apps  
-🚀 Passionate about building modern, efficient, and user-friendly solutions  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&lines=💻 Software Developer in training | Full Stack & Multiplatform Apps  
+🚀 Passionate about building modern, efficient, and user-friendly solutions )](https://git.io/typing-svg)
+ 
 
 ---
 
